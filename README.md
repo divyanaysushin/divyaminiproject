@@ -1,0 +1,2 @@
+# divyaminiproject
+angular mini project
